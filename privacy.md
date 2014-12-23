@@ -7,7 +7,7 @@
   <p>We collect information to provide better services to all of our users. We collect information in two ways:</p>
   <ul class="spaced">
     <li><b>Information you give us.</b> For example, information such as your email from when you signed up. This will never be shared publicly without your consent.</li>
-    <li><b>Information from your use of our text editor plugins.</b> We collect and store the timestamps, file names, project names, and tags you upload using our text editor plugins. This information will never be shared publicly without your consent.</li>
+    <li><b>Information from your use of our text editor plugins.</b> We collect and store the timestamps, file names, project names, branch names, syntax languages, and detected dependencies you upload using our text editor plugins. We display the syntax languages and detected dependencies on your public profile. This information, excluding syntax language data and detected dependency data, will never be shared publicly without your consent.</li>
     <li><b>Information from your use of our services.</b> We may collect information about the services you use and how you use them, like which pages you visit and which features you use.
     We use cookies with unique identifiers to authenticate your login session. Third parties, including but not limited to Google Analytics, may also use cookies to track your return visits to the website.
     </li>
