@@ -1,7 +1,7 @@
 <div class="container" style="margin-bottom:30px;">
 
   <h1>Privacy Policy</h1>
-  <p class="text-muted">Last Modified: Tuesday February 11th, 2014 (<a href="https://github.com/wakatime/legal/commits/master/privacy.md">view all changes</a>)</p>
+  <p class="text-muted">Last Modified: Monday December 22th, 2014 (<a href="https://github.com/wakatime/legal/commits/master/privacy.md">view all changes</a>)</p>
 
   <h2>Information we collect</h2>
   <p>We collect information to provide better services to all of our users. We collect information in two ways:</p>
