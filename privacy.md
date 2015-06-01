@@ -1,14 +1,16 @@
 <div class="container" style="margin-bottom:30px;">
 
   <h1>Privacy Policy</h1>
-  <p class="text-muted">Last Modified: Monday December 22th, 2014 (<a href="https://github.com/wakatime/legal/commits/master/privacy.md">view all changes</a>)</p>
+  <p class="text-muted">Last Modified: Monday June 1st, 2015 (<a href="https://github.com/wakatime/legal/commits/master/privacy.md">view all changes</a>)</p>
 
   <h2>Information we collect</h2>
   <p>We collect information to provide better services to all of our users. We collect information in two ways:</p>
   <ul class="spaced">
-    <li><b>Information you give us.</b> For example, information such as your email from when you signed up. This will never be shared publicly without your consent.</li>
-    <li><b>Information from your use of our text editor plugins.</b> We collect and store the timestamps, file names, project names, branch names, syntax languages, and detected dependencies you upload using our text editor plugins. We display the syntax languages and detected dependencies on your public profile. This information, excluding syntax language data and detected dependency data, will never be shared publicly without your consent.</li>
-    <li><b>Information from your use of our services.</b> We may collect information about the services you use and how you use them, like which pages you visit and which features you use.
+    <li><b>Account and profile information.</b> When you sign up for a WakaTime account, we store information such as your email address. This will never be shared publicly without your consent.</li>
+    <li><b>Billing information.</b> We collect billing address and credit card information if you purchase a premium version of WakaTime. Billing address and credit card information is securely passed to our payment processing partner and is not stored at WakaTime.</li>
+    <li><b>Logged time content.</b> We collect and store the timestamps, file names, project names, branch names, syntax languages, and detected dependencies from your usage of our <a href="https://wakatime.com/downloads">downloadable plugins</a>. We display the syntax languages and detected dependencies on your public profile. This information, excluding syntax language data and detected dependency data, will never be shared publicly without your consent.</li>
+    <li><b>Service integrations.</b> If you <a href="https://wakatime.com/integrations">integrate with a service</a> on WakaTime we will connect that service to ours. We do not receive or store your passwords or source code for any of these services. You can remove an integration at any time which unbinds that integration on a go-forward basis. That does not, however, delete the content that was received from them and indexed within WakaTime. That content must be deleted manually.</li>
+    <li><b>Usage information.</b> We may collect information about the services you use and how you use them, like which pages you visit and which features you use.
     We use cookies with unique identifiers to authenticate your login session. Third parties, including but not limited to Google Analytics, may also use cookies to track your return visits to the website.
     </li>
   </ul>
