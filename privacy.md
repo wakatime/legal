@@ -1,7 +1,7 @@
 <div class="container" style="margin-bottom:30px;">
 
   <h1>Privacy Policy</h1>
-  <p class="text-muted">Last Modified: Monday June 1st, 2015 (<a href="https://github.com/wakatime/legal/commits/master/privacy.md">view all changes</a>)</p>
+  <p class="text-muted">Last Modified: Friday Sept 4th, 2015 (<a href="https://github.com/wakatime/legal/commits/master/privacy.md">view all changes</a>)</p>
 
   <h2>Information we collect</h2>
   <p>We collect information to provide better services to all of our users. We collect information in two ways:</p>
@@ -43,7 +43,7 @@
   
   <h2>Information security</h2>
   <p>
-  We work hard to protect your private information. We enforce SSL when our users communicate with WakaTime. We use a one-way hash algorithm with random salt to store your password.
+  We work hard to protect your private information. We enforce SSL when our users communicate with WakaTime. We use a <a href="https://en.wikipedia.org/wiki/Bcrypt">one-way hash algorithm</a> with random salt to store your password.
   </p>
   <p>
   We use a third party, <a href="https://stripe.com">Stripe</a>, to store your credit card information and process payments. Your credit card information is never stored or transmitted using our servers. We only store the last 4 digits, expiration date, and card type of your credit card on our servers for reference. Your credit card information is governed by <a href="https://stripe.com/us/privacy">Stripe's Privacy Policy</a>.
