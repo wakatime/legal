@@ -37,7 +37,11 @@
   <p>You agree to indemnify and hold harmless WakaTime, it's contractors, and it's licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys' fees, arising out of your use of the Service, including but not limited to your violation of this Agreement.</p>
 
   <h2>Termination</h2>
-  <p>You have the right to terminate or cancel your membership at any time. You understand and agree that the cancellation of your membership or a particular component of the Service is your sole right and remedy with respect to any dispute with WakaTime. This includes, but is not limited to, any dispute related to or arising out of: (i) any term of the Terms of Service or WakaTime's enforcement or application of the Terms of Service; (ii) any policy or practice of WakaTime, including the Privacy Policy, or WakaTime's enforcement or application of these policies; (iii) the data available through the Service; (iv) your ability to access and use the Service; or (v) the amount or type of fees, surcharges, applicable taxes, and any WakaTime billing methods. WakaTime, in its sole discretion, may terminate your membership and remove and discard any of your data without notice if WakaTime believes that you have violated or acted inconsistently with the Terms of Service. We will not be liable to you for termination of your membership to the Service. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, intellectual property provisions, warranty disclaimers, and limitations of liability.</p>
+  <p>
+    WakaTime may terminate your access to all or any part of our Service at any time, with or without cause, with or without notice, effective immediately.
+    If you wish to terminate this Agreement or your WakaTime.com account (if you have one), you may simply discontinue using our Service.
+    All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+  </p>
 
   <h2>Paid Upgrades</h2>
   <p>
