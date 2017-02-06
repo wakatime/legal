@@ -1,7 +1,7 @@
 <div class="container" style="margin-bottom:30px;">
 
   <h1>Terms of Service Agreement</h1>
-  <p class="text-muted">Last Modified: Saturday July 19th, 2014 (<a href="https://github.com/wakatime/legal/commits/master/terms.md">view all changes</a>)</p>
+  <p class="text-muted">Last Modified: Monday Feb 6, 2017 (<a href="https://github.com/wakatime/legal/commits/master/terms.md">view all changes</a>)</p>
 
   <p>THIS TERMS OF SERVICE AGREEMENT (THE "AGREEMENT") ESTABLISHES THE TERMS AND CONDITIONS THAT APPLY TO ALL END USERS (EACH AND COLLECTIVELY, "YOU", "YOUR", OR "USER") OF THE SITE AND/OR SERVICE (EACH AS DEFINED BELOW). BY USING THIS SITE AND/OR SERVICE, YOU ARE INDICATING YOUR ACCEPTANCE OF THIS AGREEMENT AND YOUR AGREEMENT TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT, AS WELL AS ALL APPLICABLE LAWS AND REGULATIONS. YOU ARE NOT PERMITTED TO USE THIS SITE AND/OR SERVICE IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. THIS AGREEMENT CAN BE CHANGED, MODIFIED, SUPPLEMENTED, AND/OR UPDATED BY WAKATIME. ("WAKATIME", "WE", "OUR", OR "US") AT ANY TIME. YOUR CONTINUED USE OF THE SITE AND/OR SERVICE AFTER THE MODIFICATION OF THIS AGREEMENT MEANS THAT YOU ACCEPT ALL SUCH CHANGES. ACCORDINGLY, YOU ARE ADVISED TO CONSULT THIS AGREEMENT EACH TIME YOU ACCESS THE SITE AND/OR SERVICE IN ORDER TO VIEW ANY CHANGES TO THIS AGREEMENT. THIS AGREEMENT WAS LAST MODIFIED AS OF THE DATE INDICATED ABOVE.</p>
 
@@ -38,6 +38,18 @@
 
   <h2>Termination</h2>
   <p>You have the right to terminate or cancel your membership at any time. You understand and agree that the cancellation of your membership or a particular component of the Service is your sole right and remedy with respect to any dispute with WakaTime. This includes, but is not limited to, any dispute related to or arising out of: (i) any term of the Terms of Service or WakaTime's enforcement or application of the Terms of Service; (ii) any policy or practice of WakaTime, including the Privacy Policy, or WakaTime's enforcement or application of these policies; (iii) the data available through the Service; (iv) your ability to access and use the Service; or (v) the amount or type of fees, surcharges, applicable taxes, and any WakaTime billing methods. WakaTime, in its sole discretion, may terminate your membership and remove and discard any of your data without notice if WakaTime believes that you have violated or acted inconsistently with the Terms of Service. We will not be liable to you for termination of your membership to the Service. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, intellectual property provisions, warranty disclaimers, and limitations of liability.</p>
+
+  <h2>Paid Upgrades</h2>
+  <p>
+    Optional paid services are available (any such services, an "Upgrade").
+    By selecting an Upgrade you agree to pay WakaTime the monthly or annual subscription fees indicated for that service.
+    Payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated.
+    Unless you notify WakaTime before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you.
+    We may change the fees in effect but will give you advance notice of these changes via a message to the email address associated with your account.
+    Upgrades can be canceled at any time in the <a href="/settings/billing">Billing section</a> of your Account Settings.
+    We do not offer refunds, unless you cancel your Upgrade within 14 days of upgrading.
+    You can read about our refund policy <a href="/refunds">here</a>.
+  </p>
 
   <h2>Miscellaneous</h2>
   <p>This Agreement constitutes the entire agreement between WakaTime and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of WakaTime, or by the posting by WakaTime of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of the Site will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in San Francisco County, California.</p>
