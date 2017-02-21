@@ -1,6 +1,6 @@
 # Terms of Service Agreement
 
-<span class="text-muted">Last Modified: Monday Feb 6, 2017</span>
+<span class="text-muted">Last Modified: Tues Feb 21, 2017</span>
 ([View all changes][changes])
 
 THIS TERMS OF SERVICE AGREEMENT (THE "AGREEMENT") ESTABLISHES THE TERMS AND

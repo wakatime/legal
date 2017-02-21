@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<span class="text-muted">Last Modified: Friday Sept 4th, 2015</span>
+<span class="text-muted">Last Modified: Tue Feb 21, 2017</span>
 ([View all changes][changes])
 
 ## Information we collect
