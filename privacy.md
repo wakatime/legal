@@ -16,11 +16,12 @@ We collect information in two ways:
   and credit card information is securely passed to our payment processing
   partner and is not stored at WakaTime.
 * **Logged time content.** We collect and store the timestamps, file names,
-  domain names, project names, branch names, syntax languages, and detected
-  dependencies from your usage of our [downloadable plugins][editors]. We
-  display the syntax languages and detected dependencies on your public
-  profile. This information, excluding syntax language data and detected
-  dependency data, will never be shared publicly without your consent.
+  domain names, machine host names, project names, branch names,
+  syntax languages, and detected dependencies from your usage of our
+  [downloadable plugins][editors]. We display the syntax languages and
+  detected dependencies on your public profile. This information, excluding
+  syntax language data and detected dependency data, will never be shared
+  publicly without your consent.
 * **Service integrations.** If you [integrate with a service][integrations] on
   WakaTime we will connect that service to ours. We do not receive or store
   your passwords or source code for any of these services. You can remove an
@@ -79,9 +80,8 @@ credit card information is governed by
 
 We reserve the right, in our sole and absolute discretion, to make changes to
 this Policy from time to time. Please review this Privacy Policy periodically
-to check for updates.
-If the changes are significant, we may notify you or provide an additional
-opportunity to "opt-in", as appropriate.
+to check for updates. If the changes are significant, we may notify you or
+provide an additional opportunity to "opt-in", as appropriate.
 
 
 [changes]: https://github.com/wakatime/legal/commits/master/privacy.md
