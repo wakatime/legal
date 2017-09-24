@@ -170,7 +170,7 @@ in San Francisco County, California.
 
 <p style="margin-top:60px;" class="text-muted">
   This Terms of Service was created from
-  <a href="http://en.wordpress.com/tos/" rel="nofollow">WordPress.com's TOS</a> which is
+  <a href="https://en.wordpress.com/tos/" rel="nofollow">WordPress.com's TOS</a> which is
   available under a Creative Commons Sharealike license.
 </p>
 
