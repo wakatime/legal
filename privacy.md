@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<span class="text-muted">Last Modified: Tue Feb 21, 2017</span>
+<span class="text-muted">Last Modified: Thu Apr 12, 2018</span>
 ([View all changes][changes])
 
 ## Information we collect
@@ -15,13 +15,13 @@ We collect information in two ways:
   information if you purchase a premium version of WakaTime. Billing address
   and credit card information is securely passed to our payment processing
   partner and is not stored at WakaTime.
-* **Logged time content.** We collect and store the timestamps, file names,
-  domain names, machine host names, project names, branch names,
-  syntax languages, and detected dependencies from your usage of our
-  [downloadable plugins][editors]. We display the syntax languages and
-  detected dependencies on your public profile. This information, excluding
-  syntax language data and detected dependency data, will never be shared
-  publicly without your consent.
+* **Plugin usage content.** We collect and store the timestamps, file names,
+  domain names, machine host names, project names, branch names, editor names
+  and versions, syntax languages, and detected dependencies from your usage of
+  our [downloadable plugins][editors]. Except for syntax languages, editor
+  names, and detected dependency data, this information will never be shared
+  publicly without your consent. We display the syntax languages, editor names,
+  and detected dependencies on your public profile.
 * **Service integrations.** If you [integrate with a service][integrations] on
   WakaTime we will connect that service to ours. We do not receive or store
   your passwords or source code for any of these services. You can remove an
