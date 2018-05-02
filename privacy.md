@@ -1,12 +1,11 @@
 # Privacy Policy
 
-<span class="text-muted">Last Modified: Thu Apr 12, 2018</span>
+<span class="text-muted">Last Modified: Wed May 2, 2018</span>
 ([View all changes][changes])
 
 ## Information we collect
 
-We collect information to provide better services to all of our users.
-We collect information in two ways:
+We collect information in the following ways:
 
 * **Account and profile information.** When you sign up for a WakaTime account,
   we store information such as your email address. This will never be shared
@@ -60,7 +59,7 @@ apply:
   companies, or individuals outside of WakaTime if necessary to:
   - Meet any applicable law, regulation, legal process, or government
     request.
-  - Enforce applicable Terms of Service
+  - Enforce applicable Terms of Service.
   - Detect, prevent, or address fraud, abuse, security, or technical issues.
 
 ## Information security
