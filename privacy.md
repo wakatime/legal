@@ -21,11 +21,11 @@ We collect information in the following ways:
   hostname, your computer’s timezone, your computer's operating system name and
   version information, and websites visited in your browser from your usage of
   our [downloadable plugins][editors]. We do not receive or store your source
-  code. Syntax languages, editor names, operating system usage, and detected
-  dependency data may be displayed on your public profile unless you opt-out of
-  sharing this information by editing your profile settings. All other plugin
-  usage information will never be shared publicly without your consent. This
-  information is deleted when you delete your WakaTime account.
+  code. Your syntax languages, editor names, operating systems, and
+  libraries/imports usage may be displayed on your public profile unless you
+  opt-out of sharing this information by editing your profile settings. All
+  other plugin usage information will never be shared publicly without your
+  consent. This information is deleted when you delete your WakaTime account.
 * **Service integrations.** If you [integrate with a service][integrations] on
   WakaTime we will connect that service to ours. We do not receive or store
   your passwords or source code for any of these services. You can remove an
