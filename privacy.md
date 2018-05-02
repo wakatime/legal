@@ -14,19 +14,25 @@ We collect information in the following ways:
   information if you purchase a premium version of WakaTime. Billing address
   and credit card information is securely passed to our payment processing
   partner and is not stored at WakaTime.
-* **Plugin usage content.** We collect and store the timestamps, file names,
-  domain names, machine host names, project names, branch names, editor names
-  and versions, syntax languages, and detected dependencies from your usage of
-  our [downloadable plugins][editors]. Except for syntax languages, editor
-  names, and detected dependency data, this information will never be shared
-  publicly without your consent. We display the syntax languages, editor names,
-  and detected dependencies on your public profile.
+* **Plugin usage content.** We collect and store the path of the file you are
+  editing, timestamps, project names, branch names, editor names &amp;
+  versions, languages, libraries/imports from opened files, line counts of
+  opened files, position of your cursor in opened files, your computer’s
+  hostname, your computer’s timezone, your computer's operating system name and
+  version information, and websites visited in your browser from your usage of
+  our [downloadable plugins][editors]. We do not receive or store your source
+  code. Syntax languages, editor names, operating system usage, and detected
+  dependency data may be displayed on your public profile unless you opt-out of
+  sharing this information by editing your profile settings. All other plugin
+  usage information will never be shared publicly without your consent. This
+  information is deleted when you delete your WakaTime account.
 * **Service integrations.** If you [integrate with a service][integrations] on
   WakaTime we will connect that service to ours. We do not receive or store
   your passwords or source code for any of these services. You can remove an
   integration at any time which unbinds that integration on a go-forward basis.
   That does not, however, delete the content that was received from them and
-  indexed within WakaTime. That content must be deleted manually.
+  indexed within WakaTime. That content is deleted when you delete your
+  WakaTime account.
 * **Usage information.** We may collect information about the services you use
   and how you use them, like which pages you visit and which features you use.
   We use cookies with unique identifiers to authenticate your login session.
