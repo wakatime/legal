@@ -31,8 +31,9 @@ We collect information in the following ways:
   your passwords or source code for any of these services. You can remove an
   integration at any time which unbinds that integration on a go-forward basis.
   That does not, however, delete the content that was received from them and
-  indexed within WakaTime. That content is deleted when you delete your
-  WakaTime account.
+  indexed within WakaTime. That content is deleted immediately when you
+  disconnect your service integration on the WakaTime website, or when you
+  delete your WakaTime account.
 * **Usage information.** We may collect information about the services you use
   and how you use them, like which pages you visit and which features you use.
   We use cookies with unique identifiers to authenticate your login session.
