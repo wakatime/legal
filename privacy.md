@@ -21,10 +21,7 @@ We collect information in the following ways:
   hostname, your computer’s timezone, your computer's operating system name and
   version information, and websites visited in your browser from your usage of
   our [downloadable plugins][editors]. We do not receive or store your source
-  code. Your syntax languages, editor names, operating systems, and
-  libraries/imports usage may be displayed on your public profile unless you
-  opt-out of sharing this information by editing your profile settings. All
-  other plugin usage information will never be shared publicly without your
+  code. All plugin usage information will never be shared publicly without your
   consent. This information is deleted when you delete your WakaTime account.
 * **Service integrations.** If you [integrate with a service][integrations] on
   WakaTime we will connect that service to ours. We do not receive or store
@@ -55,19 +52,20 @@ as letting you know about upcoming changes or improvements.
 
 ## Information we share
 
-We do not share your personal information with organizations, companies, or
-individuals outside of WakaTime unless one of the following circumstances
-apply:
+We do not sell our users’ private personal information. We share information
+about you in the limited circumstances spelled out below and with appropriate
+safeguards on your privacy:
 
-* **With your consent.** We will share information with organizations,
-  companies, or individuals outside of WakaTime when we have your
-  permission to do so.
-* **For legal reasons.** We will share information with organizations,
-  companies, or individuals outside of WakaTime if necessary to:
-  - Meet any applicable law, regulation, legal process, or government
-    request.
-  - Enforce applicable Terms of Service.
-  - Detect, prevent, or address fraud, abuse, security, or technical issues.
+* **With your consent:** We may share and disclose information with your
+  consent or at your direction. For example, we may share your information with
+  third parties with which you authorize us to do so, such as the integrations
+  that you connect to your account through our Integrations feature.
+* **Aggregated and de-identified information:** We may share information that
+  has been aggregated or reasonably de-identified, so that the information
+  could not reasonably be used to identify you. For example, we may publish
+  aggregate statistics about the use of our Services.
+* **As required by law:** We may disclose information about you in response to
+  a subpoena, court order, or other governmental request.
 
 ## Information security
 
