@@ -1,3 +1,7 @@
+<div class="legal-nav">
+  <a href="/legal">Legal & Security</a> <a href="./privacy-policy">Privacy Policy</a>
+</div>
+
 # Privacy Policy
 
 <span class="text-muted">Last Modified: Wed May 2, 2018</span>

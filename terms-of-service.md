@@ -1,3 +1,7 @@
+<div class="legal-nav">
+  <a href="/legal">Legal & Security</a> <a href="./terms-of-service">Terms of Service Agreement</a>
+</div>
+
 # Terms of Service Agreement
 
 <span class="text-muted">Last Modified: Tues Feb 21, 2017</span>

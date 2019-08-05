@@ -1,5 +1,16 @@
-# Legal Documents for WakaTime
+<center class="center-xs m-top-xs-60 m-bottom-xs-60">
+# Legal & Security
+</center>
 
-https://wakatime.com/privacy
+### Legal
 
-https://wakatime.com/terms
+#### [Terms of Service Agreement](/legal/terms-of-service)
+
+#### [Privacy Policy](/legal/privacy-policy)
+
+
+### Security
+
+#### [Data Security](/legal/data-security)
+
+#### [Report a Vulnerability ](/legal/report-vulnerability)
