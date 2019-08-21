@@ -8,6 +8,8 @@
 
 #### [Privacy Policy](/legal/privacy-policy)
 
+#### [Refunds](/legal/refunds)
+
 
 ### Security
 
