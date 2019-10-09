@@ -10,6 +10,8 @@
 
 #### [Refunds](/legal/refunds)
 
+#### [Logos and Trademark Usage](/legal/logos-and-trademark-usage)
+
 
 ### Security
 
