@@ -181,4 +181,4 @@ in San Francisco County, California.
 
 [changes]: https://github.com/wakatime/legal/commits/master/terms.md
 [billing]: https://wakatime.com/settings/billing
-[refunds]: https://wakatime.com/refunds
+[refunds]: https://wakatime.com/legal/refunds
