@@ -99,7 +99,7 @@ to check for updates. If the changes are significant, we may notify you or
 provide an additional opportunity to "opt-in", as appropriate.
 
 
-[changes]: https://github.com/wakatime/legal/commits/master/privacy.md
+[changes]: https://github.com/wakatime/legal/commits/master/privacy-policy.md
 [integrations]: https://wakatime.com/integrations
 [editors]: https://wakatime.com/editors
 [bcrypt]: https://en.wikipedia.org/wiki/Bcrypt
