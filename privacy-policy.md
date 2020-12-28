@@ -27,13 +27,20 @@ We collect information in the following ways:
   our [downloadable plugins][editors]. We do not receive or store your source
   code. All plugin usage information will never be shared publicly without your
   consent. This information is deleted when you delete your WakaTime account.
-* **Service integrations.** If you [integrate with a service][integrations] on
-  WakaTime we will connect that service to ours. We do not receive or store
-  your passwords or source code for any of these services. You can remove an
-  integration at any time which unbinds that integration on a go-forward basis.
-  That does not, however, delete the content that was received from them and
-  indexed within WakaTime. That content is deleted immediately when you
-  disconnect your service integration on the WakaTime website, or when you
+* **Integrations.** If you grant us authorization to
+  [integrate with another service provider][integrations], we will connect that
+  service to ours and only collect data from that service which is necessary
+  to provide you the integration service. For example when you connect the
+  Google Calendar integration, we temporarily store the names of your calendars
+  during the integration setup process. After you have selected which calendars
+  to integrate with WakaTime, we only store the calendar names, event titles,
+  event start times, and event end times for the calendars you have selected.
+  We do not receive or store calendar data for calendars which you have not
+  selected. We do not receive or store your passwords or source code for any
+  integration services. You can remove an integration at any time which unbinds
+  that integration on a go-forward basis and deletes all content that was
+  received from that service. Your content, including Google Calendar data, is
+  also immediately deleted and no longer stored or indexed by WakaTime when you
   delete your WakaTime account.
 * **Usage information.** We may collect information about the services you use
   and how you use them, like which pages you visit and which features you use.
