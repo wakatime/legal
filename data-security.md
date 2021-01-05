@@ -20,8 +20,11 @@ WakaTime service backups are destroyed within 27 days, excluding security and ac
 # Compliance
 
 All WakaTime user data is ingested, processed, and maintained in SOC 2 and ISO/IEC 27001:2013 compliant facilities/data centers:
+
 [https://aws.amazon.com/compliance/soc-faqs/](https://aws.amazon.com/compliance/soc-faqs/)
+
 [https://aws.amazon.com/compliance/iso-27001-faqs/](https://aws.amazon.com/compliance/iso-27001-faqs/)
+
 [https://www.digitalocean.com/trust/certification-reports/](https://www.digitalocean.com/trust/certification-reports/)
 
 
