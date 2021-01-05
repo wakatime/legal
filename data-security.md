@@ -14,7 +14,7 @@ For the full list of data sent to our servers, see [this FAQ answer](/faq#data-c
 Your data is stored securely in a combination of [DigitalOcean Droplets][digital ocean] and [Amazon AWS Simple Storage Service][amazon aws].
 WakaTime provides a way for account ownders to delete one’s own account and all associated data.
 Within 24 hours of account deletion, WakaTime hard deletes all information from running production systems.
-WakaTime service backups are destroyed within 7 days, excluding security and access logs. *
+WakaTime service backups are destroyed within 27 days, excluding security and access logs. *
 
 
 # Security Monitoring
@@ -40,7 +40,7 @@ WakaTime also operates a public security bug bounty program.
 Security researchers around the world continuously test the security of the WakaTime services, and report issues via the program.
 More details of this program are available at [the bounty site][bug bounty].
 
-*WakaTime backups are destroyed within 7 days, except that during an on-going investigation of an incident such period may be temporarily extended.
+*WakaTime backups are destroyed within 27 days, except that during an on-going investigation of an incident such period may be temporarily extended.
 
 [digital ocean]: https://www.digitalocean.com/legal/data-security/
 [amazon aws]: https://aws.amazon.com/security/
