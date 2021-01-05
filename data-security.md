@@ -11,10 +11,18 @@ For the full list of data sent to our servers, see [this FAQ answer](/faq#data-c
 
 # Data Security
 
-Your data is stored securely in a combination of [DigitalOcean Droplets][digital ocean] and [Amazon AWS Simple Storage Service][amazon aws].
+Your data is stored securely in [DigitalOcean][digital ocean] SFO2 and [Amazon AWS][amazon aws] data centers .
 WakaTime provides a way for account ownders to delete one’s own account and all associated data.
 Within 24 hours of account deletion, WakaTime hard deletes all information from running production systems.
 WakaTime service backups are destroyed within 27 days, excluding security and access logs. *
+
+
+# Compliance
+
+All WakaTime user data is ingested, processed, and maintained in SOC 2 and ISO/IEC 27001:2013 compliant facilities/data centers:
+[https://aws.amazon.com/compliance/soc-faqs/](https://aws.amazon.com/compliance/soc-faqs/)
+[https://aws.amazon.com/compliance/iso-27001-faqs/](https://aws.amazon.com/compliance/iso-27001-faqs/)
+[https://www.digitalocean.com/trust/certification-reports/](https://www.digitalocean.com/trust/certification-reports/)
 
 
 # Security Monitoring
