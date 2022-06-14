@@ -183,6 +183,6 @@ in San Francisco County, California.
 </p>
 
 
-[changes]: https://github.com/wakatime/legal/commits/master/terms.md
+[changes]: https://github.com/wakatime/legal/commits/master/terms-of-service.md
 [billing]: https://wakatime.com/settings/billing
 [refunds]: https://wakatime.com/legal/refunds
