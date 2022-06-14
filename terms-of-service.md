@@ -4,7 +4,7 @@
 
 # Terms of Service Agreement
 
-<span class="text-muted">Last Modified: Tues Feb 21, 2017</span>
+<span class="text-muted">Last Modified: Tues Jun 14, 2022</span>
 ([View all changes][changes])
 
 THIS TERMS OF SERVICE AGREEMENT (THE "AGREEMENT") ESTABLISHES THE TERMS AND
@@ -78,6 +78,10 @@ agree not to allow any third party to):
 
 * use, copy, install, transfer or distribute the Site and/or Service, except as
   specifically permitted by this Agreement;
+* install, transfer or distribute the Site and/or Service to a third party
+  without their knowledge, for example: installing the Site and/or Service on
+  an employee computer for the purpose of employee monitoring without their
+  knowledge or consent;
 * remove or alter any copyright, trademark or other proprietary rights notices
   contained in or on the Site or in or on any content or other material
   obtained through the Site or the use of the Service;
