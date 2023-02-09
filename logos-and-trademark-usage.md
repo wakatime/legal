@@ -7,7 +7,7 @@
 <div class="row">
   <div class="col-xs-12 col-md-6">
     <div class="thumbnail">
-      <a href="https://wakatime.com/static/WakaTime-logos.zip" class="logo-vertical"><img src="https://wakatime.com/static/img/wakatime-logo-text-vertical.png" alt="WakaTime Logo Download" style="width:25%;" /></a>
+      <a href="https://wakatime.com/static/WakaTime-logos.zip"><img src="https://wakatime.com/static/img/wakatime-logos-all.png" alt="WakaTime Logo Download" /></a>
       <div class="caption center-xs">
         <a class="btn btn-lg btn-success m-top-xs-20" href="https://wakatime.com/static/WakaTime-logos.zip">Download</a>
       </div>
