@@ -1,6 +1,4 @@
-<center class="center-xs m-top-xs-60 m-bottom-xs-60">
 # Legal & Security
-</center>
 
 ### Legal
 
