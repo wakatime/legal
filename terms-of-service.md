@@ -171,10 +171,10 @@ concerning the subject matter hereof, and they may only be modified by a
 written amendment signed by an authorized executive of WakaTime, or by the
 posting by WakaTime of a revised version. Except to the extent applicable law,
 if any, provides otherwise, this Agreement, any access to or use of the Site
-will be governed by the laws of the state of California, U.S.A., excluding its
+will be governed by the laws of the state of Delaware, U.S.A., excluding its
 conflict of law provisions, and the proper venue for any disputes arising out
 of or relating to any of the same will be the state and federal courts located
-in San Francisco County, California.
+in Delaware.
 
 <p style="margin-top:60px;" class="text-muted">
   This Terms of Service was created from
