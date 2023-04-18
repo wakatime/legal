@@ -31,7 +31,7 @@
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-times"></i>Use the WakaTime name or logo in your project's name if the primary purpose of your project is not the spread and improvement of the WakaTime software</li>
   <li><i class="fa-li fa fa-times"></i>Use the WakaTime name or logo in your project's name if your project duplicates functionality found in an existing WakaTime software</li>
-  <li><i class="fa-li fa fa-times"></i>Create a modified version of the WakaTime logo without approval (<a href="mailto:support@wakatime.com">email us</a>)</li>
+  <li><i class="fa-li fa fa-times"></i>Create a modified version of the WakaTime logo without approval (<a href="mailto:support@wakatime.com">email us</a> to request approval)</li>
   <li><i class="fa-li fa fa-times"></i>Integrate the WakaTime logo into your logo</li>
   <li><i class="fa-li fa fa-times"></i>Use any WakaTime artwork without permission</li>
 </ul>
