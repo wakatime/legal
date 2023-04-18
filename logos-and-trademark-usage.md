@@ -23,7 +23,7 @@
   <li><i class="fa-li fa fa-check"></i>Use the WakaTime name in the description of your project</li>
   <li><i class="fa-li fa fa-check"></i>Use the WakaTime name or logo in your project if the primary purpose of your project is to promote the spread and improvement of the WakaTime software</li>
   <li><i class="fa-li fa fa-check"></i>Use the WakaTime name or logo to link to WakaTime</li>
-  <li><i class="fa-li fa fa-check"></i>Use the WakaTIme logo to advertise that your product has built-in WakaTime integration</li>
+  <li><i class="fa-li fa fa-check"></i>Use the WakaTime logo to advertise that your product has built-in WakaTime integration</li>
   <li><i class="fa-li fa fa-check"></i>Use the WakaTime logo in a blog post or news article about WakaTime</li>
 </ul>
 
