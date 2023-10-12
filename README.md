@@ -10,6 +10,8 @@
 
 #### [Refunds](/legal/refunds)
 
+#### [Inactive WakaTime Account Policy](/legal/inactive-account)
+
 #### [Logos and Trademark Usage](/legal/logos-and-trademark-usage)
 
 
