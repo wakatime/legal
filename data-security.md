@@ -11,7 +11,7 @@ For the full list of data sent to our servers, see [this FAQ answer](/faq#data-c
 
 # Data Security
 
-Your data is stored securely in [DigitalOcean][digital ocean] SFO2 and [Amazon AWS][amazon aws] data centers .
+Your data is stored securely in [DigitalOcean][digital ocean], [Amazon AWS][amazon aws], and [Cloudflare][cloudflare] data centers .
 WakaTime provides a way for account ownders to delete one’s own account and all associated data.
 Within 24 hours of account deletion, WakaTime hard deletes all information from running production systems.
 WakaTime service backups are destroyed within 27 days, excluding security and access logs. *
@@ -27,8 +27,11 @@ All WakaTime user data is ingested, processed, and maintained in SOC 2 and ISO/
 
 [https://www.digitalocean.com/trust/certification-reports/](https://www.digitalocean.com/trust/certification-reports/)
 
+[https://www.cloudflare.com/trust-hub/compliance-resources/](https://www.cloudflare.com/trust-hub/compliance-resources/)
+
 
 # Security Monitoring
+
 WakaTime’s Security team utilizes monitoring and analytics capabilities to identify potentially malicious activity within our infrastructure.
 User and system behaviors are monitored for suspicious activity, and investigations are performed following our incident reporting and response procedures.
 
@@ -55,4 +58,5 @@ More details of this program are available at [the bounty site][bug bounty].
 
 [digital ocean]: https://www.digitalocean.com/legal/data-security/
 [amazon aws]: https://aws.amazon.com/security/
+[cloudflare]: https://www.cloudflare.com/trust-hub/compliance-resources/
 [bug bounty]: https://hackerone.com/wakatime
