@@ -19,4 +19,4 @@
 
 #### [Data Security](/legal/data-security)
 
-#### [Report a Vulnerability ](/legal/report-vulnerability)
+#### [Report a Vulnerability ](/legal/report-a-vulnerability)
