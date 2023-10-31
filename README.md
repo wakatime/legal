@@ -4,19 +4,19 @@
 
 ### Legal
 
-#### [Terms of Service Agreement](/legal/terms-of-service)
+#### [Terms of Service Agreement](https://wakatime.com/legal/terms-of-service)
 
-#### [Privacy Policy](/legal/privacy-policy)
+#### [Privacy Policy](https://wakatime.com/legal/privacy-policy)
 
-#### [Refunds](/legal/refunds)
+#### [Refunds](https://wakatime.com/legal/refunds)
 
-#### [Inactive WakaTime Account Policy](/legal/inactive-account)
+#### [Inactive WakaTime Account Policy](https://wakatime.com/legal/inactive-account)
 
-#### [Logos and Trademark Usage](/legal/logos-and-trademark-usage)
+#### [Logos and Trademark Usage](https://wakatime.com/legal/logos-and-trademark-usage)
 
 
 ### Security
 
-#### [Data Security](/legal/data-security)
+#### [Data Security](https://wakatime.com/legal/data-security)
 
-#### [Report a Vulnerability ](/legal/report-a-vulnerability)
+#### [Report a Vulnerability ](https://wakatime.com/legal/report-a-vulnerability)
