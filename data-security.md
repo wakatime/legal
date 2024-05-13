@@ -9,9 +9,10 @@ WakaTime plugins only send limited metadata about your IDE usage to populate you
 For the full list of data sent to our servers, see [this FAQ answer](/faq#data-collected) and the [WakaTime Privacy Policy](/legal/privacy-policy).
 
 
-# Data Security
+# Data Security &amp; Retention
 
-Your data is stored securely in [DigitalOcean][digital ocean], [Amazon AWS][amazon aws], and [Cloudflare][cloudflare] data centers .
+Your data is stored securely in [DigitalOcean][digital ocean], [Amazon AWS][amazon aws], and [Cloudflare][cloudflare] data centers.
+Your personal information is only retained for as long as necessary to provide the requested service features, and is immediately deleted from our servers when no longer needed to provide the requested service.
 WakaTime provides a way for account ownders to delete one’s own account and all associated data using [this form][delete account form].
 Within 24 hours of account deletion, WakaTime hard deletes all information from running production systems.
 WakaTime service backups are destroyed within 27 days, excluding security and access logs. *
