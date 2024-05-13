@@ -13,7 +13,10 @@ We collect information in the following ways:
 
 * **Account and profile information.** When you sign up for a WakaTime account,
   we store information such as your email address. This will never be shared
-  publicly without your consent.
+  publicly without your consent. You may delete your WakaTime account at any
+  time using [this form][delete account form]. When you delete your own
+  WakaTime account, your account and profile information is deleted according
+  to the [WakaTime Data Security Policy][data security policy].
 * **Billing information.** We collect billing address and credit card
   information if you purchase a premium version of WakaTime. Billing address
   and credit card information is securely passed to our payment processing
@@ -41,7 +44,8 @@ We collect information in the following ways:
   that integration on a go-forward basis and deletes all content that was
   received from that service. Your content, including Google Calendar data, is
   also immediately deleted and no longer stored or indexed by WakaTime when you
-  delete your WakaTime account.
+  delete your WakaTime account. To delete your WakaTime account, use the form
+  at [https://wakatime.com/settings/delete_account][delete account form].
 * **Usage information.** We may collect information about the services you use
   and how you use them, like which pages you visit and which features you use.
   We use cookies with unique identifiers to authenticate your login session.
@@ -105,3 +109,5 @@ provide an additional opportunity to "opt-in", as appropriate.
 [bcrypt]: https://en.wikipedia.org/wiki/Bcrypt
 [stripe]: https://stripe.com
 [stripe privacy]: https://stripe.com/us/privacy
+[delete account form]: https://wakatime.com/settings/delete_account
+[data security policy]: https://wakatime.com/legal/data-security

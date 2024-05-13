@@ -12,7 +12,7 @@ For the full list of data sent to our servers, see [this FAQ answer](/faq#data-c
 # Data Security
 
 Your data is stored securely in [DigitalOcean][digital ocean], [Amazon AWS][amazon aws], and [Cloudflare][cloudflare] data centers .
-WakaTime provides a way for account ownders to delete one’s own account and all associated data.
+WakaTime provides a way for account ownders to delete one’s own account and all associated data using [this form][delete account form].
 Within 24 hours of account deletion, WakaTime hard deletes all information from running production systems.
 WakaTime service backups are destroyed within 27 days, excluding security and access logs. *
 
@@ -60,3 +60,4 @@ More details of this program are available at [the bounty site][bug bounty].
 [amazon aws]: https://aws.amazon.com/security/
 [cloudflare]: https://www.cloudflare.com/trust-hub/compliance-resources/
 [bug bounty]: https://hackerone.com/wakatime
+[delete account form]: https://wakatime.com/settings/delete_account
