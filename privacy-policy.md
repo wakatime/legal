@@ -44,8 +44,8 @@ We collect information in the following ways:
   that integration on a go-forward basis and deletes all content that was
   received from that service. Your content, including Google Calendar data, is
   also immediately deleted and no longer stored or indexed by WakaTime when you
-  delete your WakaTime account. To delete your WakaTime account, use the form
-  at [https://wakatime.com/settings/delete_account][delete account form].
+  delete your WakaTime account. To delete your WakaTime account, use
+  [this form][delete account form].
 * **Usage information.** We may collect information about the services you use
   and how you use them, like which pages you visit and which features you use.
   We use cookies with unique identifiers to authenticate your login session.
