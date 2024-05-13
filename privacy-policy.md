@@ -4,7 +4,7 @@
 
 # Privacy Policy
 
-<span class="text-muted">Last Modified: Mon Dec 28, 2020</span>
+<span class="text-muted">Last Modified: Mon May 13, 2024</span>
 ([View all changes][changes])
 
 ## Information we collect
