@@ -13,10 +13,12 @@ We collect information in the following ways:
 
 * **Account and profile information.** When you sign up for a WakaTime account,
   we store information such as your email address. This will never be shared
-  publicly without your consent. You may delete your WakaTime account at any
-  time using [this form][delete account form]. When you delete your own
-  WakaTime account, your account and profile information is deleted according
-  to the [WakaTime Data Security Policy][data security policy].
+  publicly without your consent. We retain your data while you have an active
+  account. You may delete your WakaTime account at any time using
+  [this form][delete account form]. When you delete your own WakaTime account,
+  your account and profile information and all integration data including
+  Slack, Google, GitHub, Zoom, and Microsoft integration information is deleted
+  according to the [WakaTime Data Security Policy][data security policy].
 * **Billing information.** We collect billing address and credit card
   information if you purchase a premium version of WakaTime. Billing address
   and credit card information is securely passed to our payment processing
