@@ -41,13 +41,18 @@ We collect information in the following ways:
   to integrate with WakaTime, we only store the calendar names, event titles,
   event start times, and event end times for the calendars you have selected.
   We do not receive or store calendar data for calendars which you have not
-  selected. We do not receive or store your passwords or source code for any
+  selected. When you connect the Slack integration, we temporarily store a list
+  of your available channel names. After you have selected a Slack channel for
+  the integration, we only store the selected Slack channel’s ID. We do not
+  receive or store any Slack messages or any other information from Slack. We
+  do not receive or store your passwords or source code for any
   integration services. You can remove an integration at any time which unbinds
-  that integration on a go-forward basis and deletes all content that was
-  received from that service. Your content, including Google Calendar data, is
-  also immediately deleted and no longer stored or indexed by WakaTime when you
-  delete your WakaTime account. To delete your WakaTime account, use
-  [this form][delete account form].
+  that integration on a go-forward basis and immediately deletes all content
+  that was received from that service. Your integration content is also
+  immediately deleted and no longer stored or indexed by WakaTime when you
+  delete your WakaTime account according to the
+  [WakaTime Data Security Policy][data security policy]. To delete your
+  WakaTime account, use [this form][delete account form].
 * **Usage information.** We may collect information about the services you use
   and how you use them, like which pages you visit and which features you use.
   We use cookies with unique identifiers to authenticate your login session.
