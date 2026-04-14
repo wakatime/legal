@@ -26,7 +26,9 @@ We collect information in the following ways:
 * **Plugin usage content.** We collect and store the path of the file you are
   editing, timestamps, project names, branch names, editor names &amp;
   versions, languages, libraries/imports from opened files, line counts of
-  opened files, position of your cursor in opened files, your computer’s
+  opened files, line addition and deletion counts from editing files, line
+  addition and deletion counts from AI tools, token usage counts from AI tools,
+  AI tool session ids, position of your cursor in opened files, your computer’s
   hostname, your computer’s timezone, your computer's operating system name and
   version information, and websites visited in your browser from your usage of
   our [downloadable plugins][editors]. We do not receive or store your source
