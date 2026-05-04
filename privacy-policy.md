@@ -4,7 +4,7 @@
 
 # Privacy Policy
 
-<span class="text-muted">Last Modified: Tue Apr 14, 2026</span>
+<span class="text-muted">Last Modified: Mon May 04, 2026</span>
 ([View all changes][changes])
 
 ## Information we collect
@@ -27,8 +27,10 @@ We collect information in the following ways:
   editing, timestamps, project names, branch names, editor names &amp;
   versions, languages, libraries/imports from opened files, line counts of
   opened files, line addition and deletion counts from editing files, line
-  addition and deletion counts from AI tools, token usage counts from AI tools,
-  AI tool session ids, position of your cursor in opened files, your computer’s
+  addition and deletion counts attributed to AI tools and humans, AI input token
+  usage counts, AI output token usage counts, AI prompt character lengths,
+  current AI subscription plan names (for example pro, max, or free), AI
+  tool session ids, position of your cursor in opened files, your computer’s
   hostname, your computer’s timezone, your computer's operating system name and
   version information, and websites visited in your browser from your usage of
   our [downloadable plugins][editors]. We do not receive or store your source
