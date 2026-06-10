@@ -29,8 +29,8 @@ We collect information in the following ways:
   opened files, line addition and deletion counts from editing files, line
   addition and deletion counts attributed to AI tools and humans, AI input token
   usage counts, AI output token usage counts, AI prompt character lengths,
-  current AI subscription plan names (for example pro, max, or free), AI
-  tool session ids, position of your cursor in opened files, your computer’s
+  AI subscription plan names (for example pro, max, or free), AI tool
+  session ids, position of your cursor in opened files, your computer’s
   hostname, your computer’s timezone, your computer's operating system name and
   version information, and websites visited in your browser from your usage of
   our [downloadable plugins][editors]. We do not receive or store your source
